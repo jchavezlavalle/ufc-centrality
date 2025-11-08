@@ -1,5 +1,5 @@
 # UFC Fighter Centrality App 👊💥
-This app made in Rust calculates the centrality between UFC fighters depending on the fights they had.
+This app made in Rust calculates the centrality using the Petgraph library (https://crates.io/crates/petgraph) between UFC fighters depending on the fights they had.
 
 
 ##How to run the app
